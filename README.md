@@ -29,9 +29,7 @@ No permitir que el usuario ingrese palabras de longitud diferente a la palabra q
 
 No permitir que el usuario ingrese palabras que no estén en el lemario.
 
-Mostrar las letras incorrectas, correctas parcialmente y correctas de diferentes colores.
-
-Si el usuario acierta la palabra aparece una nueva. El reto es acertar muchas palabras en un lapso de tiempo.
+Mostrar las letras incorrectas, correctas parcialmente y correctas de diferentes colore
 
 Evita que el usuario ingrese más de una vez una palabra ya utilizada.
 

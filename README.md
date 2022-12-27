@@ -1,7 +1,7 @@
 # La-palabra-escondida
 Introducción
 
-El trabajo consiste en hacer un juego cuyo objetivo es adivinar una palabra. No se arriesgan letras sino palabras completas. Se sabe de antemano la longitud de la palabra y el juego debe avisar cuales letras de las palabras son incorrectas (no están en la palabra), cuales son parcialmente correctas (están en la palabra pero en otra ubicación) y cuales correctas (están en la palabra exactamente en esa ubicación). Por ejemplo: La palabra oculta es "TRAPO" y el usuario escribe "CUERO" el juego debe avisar que son incorrectas las letras "C U E", es parcialmente correcta "R" y es correcta la "O". Así hasta acertar o acabar 5 intentos o haber transcurrido un tiempo predefinido.
+Este es el trabajo final que hice para introduccion a la programacion, Universidad General Sarmiento. El trabajo consiste en hacer un juego cuyo objetivo es adivinar una palabra. No se arriesgan letras sino palabras completas. Se sabe de antemano la longitud de la palabra y el juego debe avisar cuales letras de las palabras son incorrectas (no están en la palabra), cuales son parcialmente correctas (están en la palabra pero en otra ubicación) y cuales correctas (están en la palabra exactamente en esa ubicación). Por ejemplo: La palabra oculta es "TRAPO" y el usuario escribe "CUERO" el juego debe avisar que son incorrectas las letras "C U E", es parcialmente correcta "R" y es correcta la "O". Así hasta acertar o acabar 5 intentos o haber transcurrido un tiempo predefinido.
 
 
 
